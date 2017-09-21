@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		85CA59AD1F74253B00434A1E /* MAPD714-2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MAPD714-2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		85CA59AD1F74253B00434A1E /* MAPD714-F2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MAPD714-F2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		85CA59B01F74253B00434A1E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		85CA59B21F74253B00434A1E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		85CA59B51F74253B00434A1E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		85CA59AE1F74253B00434A1E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				85CA59AD1F74253B00434A1E /* MAPD714-2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP.app */,
+				85CA59AD1F74253B00434A1E /* MAPD714-F2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		85CA59AC1F74253B00434A1E /* MAPD714-2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP */ = {
+		85CA59AC1F74253B00434A1E /* MAPD714-F2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 85CA59BF1F74253B00434A1E /* Build configuration list for PBXNativeTarget "MAPD714-2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP" */;
+			buildConfigurationList = 85CA59BF1F74253B00434A1E /* Build configuration list for PBXNativeTarget "MAPD714-F2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP" */;
 			buildPhases = (
 				85CA59A91F74253B00434A1E /* Sources */,
 				85CA59AA1F74253B00434A1E /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = "MAPD714-2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP";
+			name = "MAPD714-F2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP";
 			productName = "MAPD714-2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP";
-			productReference = 85CA59AD1F74253B00434A1E /* MAPD714-2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP.app */;
+			productReference = 85CA59AD1F74253B00434A1E /* MAPD714-F2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -96,11 +96,12 @@
 				TargetAttributes = {
 					85CA59AC1F74253B00434A1E = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 37FHGR4TST;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = 85CA59A81F74253B00434A1E /* Build configuration list for PBXProject "MAPD714-2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP" */;
+			buildConfigurationList = 85CA59A81F74253B00434A1E /* Build configuration list for PBXProject "MAPD714-F2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -113,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				85CA59AC1F74253B00434A1E /* MAPD714-2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP */,
+				85CA59AC1F74253B00434A1E /* MAPD714-F2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP */,
 			);
 		};
 /* End PBXProject section */
@@ -260,7 +261,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 37FHGR4TST;
 				INFOPLIST_FILE = "MAPD714-2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.amandeep.MAPD714-2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -272,7 +275,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 37FHGR4TST;
 				INFOPLIST_FILE = "MAPD714-2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.amandeep.MAPD714-2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -283,7 +288,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		85CA59A81F74253B00434A1E /* Build configuration list for PBXProject "MAPD714-2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP" */ = {
+		85CA59A81F74253B00434A1E /* Build configuration list for PBXProject "MAPD714-F2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				85CA59BD1F74253B00434A1E /* Debug */,
@@ -292,7 +297,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		85CA59BF1F74253B00434A1E /* Build configuration list for PBXNativeTarget "MAPD714-2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP" */ = {
+		85CA59BF1F74253B00434A1E /* Build configuration list for PBXNativeTarget "MAPD714-F2017-AMANDEEPSEKHON-ASSIGNMENT1-CALCULATORAPP" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				85CA59C01F74253B00434A1E /* Debug */,
